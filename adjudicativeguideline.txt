@@ -1,0 +1,14 @@
+COL1: GUIDELINE: DEFINITION
+Short: Adjudicative Guideline A: Allegiance to the United States
+Short: Adjudicative Guideline B: Foreign Influence
+Short: Adjudicative Guideline C: Foreign Preference
+Short: Adjudicative Guideline D: Sexual Behavior
+Short: Adjudicative Guideline E: Personal Conduct
+Short: Adjudicative Guideline F: Financial Considerations
+Short: Adjudicative Guideline G: Alcohol Consumption
+Short: Adjudicative Guideline H: Drug Involvement
+Short: Adjudicative Guideline I: Psychological Conditions
+Short: Adjudicative Guideline J: Criminal Conduct
+Short: Adjudicative Guideline K: Handling Protected Information
+Short: Adjudicative Guideline L: Outside Activities
+Short: Adjudicative Guideline M: Use of Information Technology Systems
